@@ -44,5 +44,6 @@ CREATE TABLE users (
   password VARCHAR NOT NULL
 );
 
-
-
+CREATE INDEX username ON users (
+    username
+);

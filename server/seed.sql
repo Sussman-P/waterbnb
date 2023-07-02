@@ -25,4 +25,4 @@ VALUES
  ('Fort Lauderdale, Florida', 9000, '2023-06-23', 130, 'Yachts', 4.6, 45, 'Unleash your inner explorer on a yacht charter, where hidden coves, vibrant marine life, and captivating destinations beckon you to chart your own course', 'https://i.imgur.com/ROoIhUn.png', 'https://i.imgur.com/rspcSeD.png', 'https://i.imgur.com/4raXStu.png', 'https://i.imgur.com/qobgVAc.png', 'https://i.imgur.com/A6Uh7Gp.png'),
  ('Edenton, North Carolina', 395, '2023-06-20', 7, 'House Boats', 4.8, 39, 'Stay in a floating oasis of tranquility, where the soothing sounds of nature create a symphony of relaxation', 'https://i.imgur.com/m0A1Rc2.png', 'https://i.imgur.com/lEzFM1T.png', 'https://i.imgur.com/7XIk9Qd.png', 'https://i.imgur.com/YAyDVUM.png', 'https://i.imgur.com/wstXzwQ.png');
 
-
+INSERT INTO users (username, email, password) VALUES('phillip', 'phillip@test.com', '123123');
